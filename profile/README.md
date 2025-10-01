@@ -4,6 +4,12 @@ MARLIN ist ein Forschungsprojekt von Master-Studierenden der Hochschule Flensbur
 Weitere Informationen sind auf der Projektwebseite:  
 https://projekt.marlin-live.com/
 
+Der aktuelle Produktionsrelease ist unter folgender URL erreichbar:
+https://marlin-live.com
+
+Als Einblick in die aktuellen Entwicklungen gibt es folgende URL:
+https://test.marlin-live.com
+
 <!--
 
 **Here are some ideas to get you started:**
