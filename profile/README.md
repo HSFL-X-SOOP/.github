@@ -1,4 +1,8 @@
-## HSFL X SOOP
+## MARLIN
+MARLIN ist ein Forschungsprojekt von Master-Studierenden der Hochschule Flensburg in Kooperation mit SOOP.
+
+Weitere Informationen sind auf der Projektwebseite:  
+https://projekt.marlin-live.com/
 
 <!--
 
