@@ -10,6 +10,11 @@ https://marlin-live.com
 Als Einblick in die aktuellen Entwicklungen gibt es folgende URL:
 https://test.marlin-live.com
 
+SOOP:
+https://www.soop-platform.earth/
+
+Hochschule Flensburg:
+https://hs-flensburg.de/
 <!--
 
 **Here are some ideas to get you started:**
