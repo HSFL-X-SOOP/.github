@@ -4,16 +4,16 @@ MARLIN ist ein Forschungsprojekt von Master-Studierenden der Hochschule Flensbur
 Weitere Informationen sind auf der Projektwebseite:  
 https://projekt.marlin-live.com/
 
-Der aktuelle Produktionsrelease ist unter folgender URL erreichbar:
+Der aktuelle Produktionsrelease ist unter folgender URL erreichbar:  
 https://marlin-live.com
 
-Als Einblick in die aktuellen Entwicklungen gibt es folgende URL:
+Als Einblick in die aktuellen Entwicklungen gibt es folgende URL:  
 https://test.marlin-live.com
 
-SOOP:
+SOOP:  
 https://www.soop-platform.earth/
 
-Hochschule Flensburg:
+Hochschule Flensburg:  
 https://hs-flensburg.de/
 <!--
 
