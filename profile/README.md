@@ -1,27 +1,56 @@
-## MARLIN
-MARLIN ist ein Forschungsprojekt von Master-Studierenden der Hochschule Flensburg in Kooperation mit SOOP.
+<div align="center">
 
-Weitere Informationen sind auf der Projektwebseite:  
-https://projekt.marlin-live.com/
+# MARLIN
 
-Der aktuelle Produktionsrelease ist unter folgender URL erreichbar:  
-https://marlin-live.com
+_Forschungsprojekt von Master-Studierenden der **Hochschule Flensburg** in Kooperation mit **SOOP**._
 
-Als Einblick in die aktuellen Entwicklungen gibt es folgende URL:  
-https://test.marlin-live.com
+[![Live](https://img.shields.io/badge/Live-marlin--live.com-1a73e8)](https://marlin-live.com)
+[![Test](https://img.shields.io/badge/Test-test.marlin--live.com-6f42c1)](https://test.marlin-live.com)
+[![Projektwebseite](https://img.shields.io/badge/Projektwebseite-projekt.marlin--live.com-0f766e)](https://projekt.marlin-live.com/)
+[![SOOP](https://img.shields.io/badge/SOOP-soop--platform.earth-111827)](https://www.soop-platform.earth/)
+[![Hochschule Flensburg](https://img.shields.io/badge/Hochschule%20Flensburg-hs--flensburg.de-2563eb)](https://hs-flensburg.de/)
 
-SOOP:  
-https://www.soop-platform.earth/
+</div>
 
-Hochschule Flensburg:  
-https://hs-flensburg.de/
-<!--
+---
+## 🚀 Worum geht’s?
+**MARLIN** erfasst und visualisiert **Echtzeitdaten** zu Meeres- und Wetterbedingungen in **verschiedenen Marinas**. Ziel ist eine transparente Darstellung der aktuellen Wasser- und Luftsituation – direkt aus den Häfen, **live** und **übersichtlich**.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📊 Sensordaten
+
+- 🌊 **Wasserdaten**  
+  Temperatur, Wasserstand und Wellenhöhe in Echtzeit
+
+- 💨 **Winddaten**  
+  Geschwindigkeit, Richtung und Böen kontinuierlich gemessen
+
+- 🌡️ **Luftdaten**  
+  Druck und Feuchtigkeit für präzise Wetteranalysen
+
+---
+
+## 💡 Warum MARLIN?
+
+
+- 📡 **Echtzeitdaten 24/7**  
+  Kontinuierliche Überwachung von Wasser- und Wetterbedingungen mit modernster Sensortechnik.
+
+- ⚓ **Hafensicherheit**  
+  Frühwarnsystem bei kritischen Bedingungen schützt Infrastruktur und ermöglicht optimale Planung.
+
+- 🌊 **Open Data Platform**  
+  Transparente API und öffentlicher Zugang fördern Innovation im maritimen Bereich.
+
+- 🗺️ **Live Sensorkarte**  
+  Interaktive Visualisierung aller Sensordaten mit Echtzeitwerten auf einer Karte.
+
+- 📱 **Smart Notifications**  
+  Push-Benachrichtigungen bei Unwetter und kritischen Bedingungen direkt aufs Smartphone.
+---
+
+## 🤝 Partner
+
+- **Hochschule Flensburg** – Masterstudiengang Angewandte Informatik
+- **SOOP – Shaping an Ocean of Possibilities**
