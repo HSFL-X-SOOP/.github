@@ -53,4 +53,4 @@ _Forschungsprojekt von Master-Studierenden der **Hochschule Flensburg** in Koope
 ## 🤝 Partner
 
 - **Hochschule Flensburg** – Masterstudiengang Angewandte Informatik
-- **SOOP – Shaping an Ocean of Possibilities**
+- **SOOP – Shaping an Ocean Of Possibilities**
