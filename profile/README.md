@@ -2,12 +2,12 @@
 
 # MARLIN
 
-_Forschungsprojekt von Master-Studierenden der **Hochschule Flensburg** in Kooperation mit **SOOP**._
+_Forschungsprojekt von Master-Studierenden der **Hochschule Flensburg** in Kooperation mit **GEOMAR**._
 
 [![Live](https://img.shields.io/badge/Live-marlin--live.com-1a73e8)](https://marlin-live.com)
 [![Test](https://img.shields.io/badge/Test-test.marlin--live.com-6f42c1)](https://test.marlin-live.com)
 [![Projektwebseite](https://img.shields.io/badge/Projektwebseite-projekt.marlin--live.com-0f766e)](https://projekt.marlin-live.com/)
-[![SOOP](https://img.shields.io/badge/SOOP-soop--platform.earth-111827)](https://www.soop-platform.earth/)
+[![GEOMAR](https://img.shields.io/badge/GEOMAR-geomar.de-0A3D62)](https://www.geomar.de/en/)
 [![Hochschule Flensburg](https://img.shields.io/badge/Hochschule%20Flensburg-hs--flensburg.de-2563eb)](https://hs-flensburg.de/)
 
 </div>
@@ -53,4 +53,4 @@ _Forschungsprojekt von Master-Studierenden der **Hochschule Flensburg** in Koope
 ## 🤝 Partner
 
 - **Hochschule Flensburg** – Masterstudiengang Angewandte Informatik
-- **SOOP – Shaping an Ocean Of Possibilities**
+- **GEOMAR – Helmholtz Centre for Ocean Research Kiel**
